@@ -1,5 +1,7 @@
 # ft_printf - README
 
+![printf](https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfe.png?raw=true)
+
 ## Überblick
 
 Dieses Repository beinhaltet die Implementierung der Printf-Funktion in C, bekannt für ihre Vielseitigkeit und Popularität. Die Aufgabe bietet eine großartige Gelegenheit, deine Programmierkenntnisse zu verbessern und die Verwendung variadischer Funktionen in C zu erkunden. Nach erfolgreicher Umsetzung kannst du deine ft_printf()-Funktion zur libft hinzufügen und sie in zukünftigen C-Projekten an der Schule verwenden.
